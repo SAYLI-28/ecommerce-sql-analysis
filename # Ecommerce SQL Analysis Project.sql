@@ -1,4 +1,4 @@
-# Ecommerce SQL Analysis Project
+Ecommerce SQL Analysis Project
 
 ---
 
