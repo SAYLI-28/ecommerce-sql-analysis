@@ -1,4 +1,4 @@
-# Ecommerce Sales Analysis using SQL Server
+# Ecommerce Sales Analysis using SQL Server.
 
 ## Project Overview
 
