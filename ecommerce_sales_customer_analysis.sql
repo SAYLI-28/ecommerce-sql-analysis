@@ -1,5 +1,4 @@
-Ecommerce SQL Analysis Project
-
+ecommerce_sales_customer_analysis.sql
 ---
 
 1. Total Orders
